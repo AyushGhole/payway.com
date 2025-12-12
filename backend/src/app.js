@@ -40,7 +40,7 @@ app.use(
 );
 
 // Preflight support
-app.options("*", cors());
+app.options("/*", cors());
 
 // Body parsers
 app.use(express.json());
