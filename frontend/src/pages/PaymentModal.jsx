@@ -769,7 +769,7 @@ const PaymentModal = ({ option, onClose }) => {
 
       console.log("Sending OTP", otp, "email", data.email, data.amount);
 
-      const response = await fetch("http://localhost:8080/api/v3/send-otp", {
+      const response = await fetch("https://payway-com-backend.onrender.com/api/v3/send-otp", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -858,7 +858,7 @@ const PaymentModal = ({ option, onClose }) => {
         return;
       }
 
-      const res = await fetch("http://localhost:8080/api/v3/verify-otp", {
+      const res = await fetch("https://payway-com-backend.onrender.com/api/v3/verify-otp", {
         method: "POST",
         headers: { "Content-Type": "application/json" }, // important
         body: JSON.stringify({
@@ -896,7 +896,7 @@ const PaymentModal = ({ option, onClose }) => {
       setLoadings(true);
 
       const res = await fetch(
-        `http://localhost:8080/api/v4/${userId}/transaction`,
+        `https://payway-com-backend.onrender.com/api/v4/${userId}/transaction`,
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
