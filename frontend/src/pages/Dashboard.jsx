@@ -24,7 +24,7 @@ const Dashboard = ({ currUser, User }) => {
       try {
         console.log("Sending the request ", currUser);
         const res = await fetch(
-          `http://localhost:8080/api/v2/${currUser}/get_bank_details`
+          `https://payway-com-backend.onrender.com/api/v2/${currUser}/get_bank_details`
         );
         const data = await res.json();
         console.log("Fetched bank details:", data);
@@ -51,7 +51,7 @@ const Dashboard = ({ currUser, User }) => {
 
       console.log(currUser);
       const res = await fetch(
-        `http://localhost:8080/api/v4/${currUser}/getTransaction`
+        `https://payway-com-backend.onrender.com/api/v4/${currUser}/getTransaction`
       );
       const data = await res.json();
 
