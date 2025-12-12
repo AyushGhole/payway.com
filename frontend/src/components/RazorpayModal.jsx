@@ -114,7 +114,7 @@ export default function TransferModal({ open, onClose, handleTransaction }) {
 
       console.log("Generated OTP:", otp);
 
-      const response = await fetch("http://localhost:8080/api/v3/send-otp", {
+      const response = await fetch("https://payway-com-backend.onrender.com/api/v3/send-otp", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -150,7 +150,7 @@ export default function TransferModal({ open, onClose, handleTransaction }) {
       if (!formData.email)
         return enqueueSnackbar("Email missing. Cannot verify OTP.");
 
-      const res = await fetch("http://localhost:8080/api/v3/verify-otp", {
+      const res = await fetch("https://payway-com-backend.onrender.com/api/v3/verify-otp", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email: formData.email, otp: enteredOTPValue }),
