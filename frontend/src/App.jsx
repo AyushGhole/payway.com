@@ -36,8 +36,6 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/main/creditCard" element={<ProductCredit />} />
           <Route path="/main/debitCard" element={<ProductDebitCards />} />
-        </Routes>
-        <Routes>
           <Route
             path="/:_id/dashboard"
             element={<Dashboard currUser={currUser} User={User} />}
