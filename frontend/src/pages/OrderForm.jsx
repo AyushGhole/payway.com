@@ -31,7 +31,7 @@ const OrderForm = ({ currUser }) => {
 
     try {
       const res = await axios.post(
-        `http://localhost:8080/api/${currUser}/details`,
+        `https://payway-com-backend.onrender.com/api/${currUser}/details`,
         {
           name,
           email,
