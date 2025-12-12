@@ -2,7 +2,7 @@
 import axios from "axios";
 
 // --- BASE URL (Update to your backend URL) ---
-const BASE_URL = import.meta.env.VITE_BACKEND_URL || "http://localhost:8080";
+const BASE_URL = import.meta.env.VITE_BACKEND_URL || "https://payway-com-backend.onrender.com";
 
 // --- Create axios instance ---
 const api = axios.create({
