@@ -15,7 +15,7 @@ Building PayWay.in follows a structured approach using the MERN stack (MongoDB, 
 <hr>
 <br>
 <b>Product Page : </b>
-<img src="https://github.com/AyushGhole/PayWay/blob/main/public/product.png" alt="ProductPage">
+<img src="frontend/Screenshot%20(894).png" alt="ProductPage">
 <hr>
 <br>
 <b>Send Money Page : </b>
