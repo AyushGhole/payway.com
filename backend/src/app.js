@@ -25,7 +25,7 @@ connectDB();
 // CORS FIX
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://payway-web6.onrender.com"
+  "https://payway-r2pg.onrender.com/"
 ];
 
 app.use(
