@@ -17,7 +17,7 @@ import RazorpayPay from "../components/RazorpayModal";
 // Slider Images
 const slides = [
   {
-    img: "public/images/slide.avif",
+    img: "images/slide.avif",
     title: "Secure Payments & Smooth Banking",
     text: "Send money quickly and easily around the globe. More ways to pay, more places to shop.",
   },
