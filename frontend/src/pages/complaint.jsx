@@ -18,7 +18,7 @@ const ComplaintForm = ({ currUser }) => {
 
     try {
       const response = await fetch(
-        `http://localhost:8080/api/v1/${currUser}/complaint`,
+        `https://payway-com-backend.onrender.com/api/v1/${currUser}/complaint`,
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
