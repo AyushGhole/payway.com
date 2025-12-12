@@ -7,7 +7,7 @@ PayWay.in is a modern electronic banking system built using the MERN stack (Mong
 <img src="https://github.com/AyushGhole/PayWay/blob/main/public/main.png"  alt="mainImagez">
 <hr>
 <b>User DashBoard : </b>
-<img src="/public/user.png" alt="userDasshboard">
+<img src="="https://github.com/AyushGhole/PayWay/blob/main/public/user.png" alt="userDasshboard">
 <hr>
 <br>
 <b>Building Of The Website : </b>
@@ -15,11 +15,11 @@ Building PayWay.in follows a structured approach using the MERN stack (MongoDB, 
 <hr>
 <br>
 <b>Product Page : </b>
-<img src="/public/product.png" alt="ProductPage">
+<img src="https://github.com/AyushGhole/PayWay/blob/main/public/product.png" alt="ProductPage">
 <hr>
 <br>
 <b>Send Money Page : </b>
-<img src="/public/sendmoney.png" alt="sendMoneyPage">
+<img src="https://github.com/AyushGhole/PayWay/blob/main/public/sendmoney.png" alt="sendMoneyPage">
 <hr>
 <br>
 <b>Core Features </b><br>
