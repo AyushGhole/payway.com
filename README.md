@@ -59,7 +59,7 @@ Advanced Security (2FA, Fraud Detection, Biometric Login) <br>
 <h3>Deployed Project Link : </h3>
 <br>
 <br>
-  <a href="https://payway-in.onrender.com/main">
+  <a href="https://payway-r2pg.onrender.com/">
          <img src="https://img.shields.io/badge/-Website_Link-blue?style=flat-square" height="30px" width="90px" >
    </a>
    <br>
