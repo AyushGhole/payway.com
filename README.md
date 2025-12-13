@@ -31,7 +31,8 @@ Building PayWay.in follows a structured approach using the MERN stack (MongoDB, 
  ◌ Payments are processed instantly with live transaction status and balance updates. <br><br>
 ✅ Multiple Transfer Methods <br>
  ◌ Supports UPI, phone number, and bank account transfers, similar to real-world payment platforms.<br>
-✅ AI-Powered Financial Insights (Future Scope) <br><br>
+✅ Responsive & User-Friendly Dashboard
+ ◌ Production-ready dashboard built with Tailwind CSS, optimized for usability across devices.<br><br>
 ✅ Multi-Currency & Crypto Support (Upcoming) <br><br>
 <hr>
 <br>
