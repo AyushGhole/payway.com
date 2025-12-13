@@ -1,6 +1,6 @@
 <b>Description :</b><br>
 
-PayWay.in is a modern electronic banking system built using the MERN stack (MongoDB, Express.js, React, Node.js) with an MVC architecture, designed for seamless, secure, and user-friendly digital transactions. It offers real-time balance updates, secure passport-based authentication, and a responsive UI powered by Bootstrap CDN. With features like fund transfers, payment processing, and AI-driven financial insights (future scope), PayWay aims to revolutionize digital banking. Optimized API performance, and scalability with deployments on Vercel (frontend), Render (backend), and MongoDB Atlas (database). Future enhancements include mobile app development, multi-currency and crypto support, automated bill payments, and advanced security features like 2FA and fraud detection, making PayWay a next-gen banking solution. 🚀
+PayWay.in is a modern digital banking platform built with the MERN stack and MVC architecture, delivering secure, scalable, and user-friendly transactions. It supports real-time balance updates, secure authentication, and seamless fund transfers with an optimized, responsive UI. Deployed on Vercel (frontend), Render (backend), and MongoDB Atlas, PayWay is designed for high performance and scalability, with future plans including AI-driven insights, multi-currency support, enhanced security, and mobile app expansion.
 <br>
 <hr>
 <b>Front View : </b> 
