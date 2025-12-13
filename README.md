@@ -43,10 +43,12 @@ Building PayWay.in follows a structured approach using the MERN stack (MongoDB, 
 
 <hr>
 <br>
-<b> What’s Next?</b> <br>
-Mobile App Development (React Native) <br>
-Automated Bill Payments & Investment Features <br>
-Advanced Security (2FA, Fraud Detection, Biometric Login) <br>
+<b> 🔮 Future Enhancements </b> <br>
+◌ Mobile App Development (React Native) <br>
+◌ Automated Bill Payments & Investment Features <br>
+◌ Advanced Security (2FA, Fraud Detection, Biometric Login) <br>
+◌ AI-based spending insights<br>
+◌ Multi-currency & crypto transactions
 <hr>
 <br>
 
