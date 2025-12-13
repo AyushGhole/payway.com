@@ -23,12 +23,12 @@ Building PayWay.in follows a structured approach using the MERN stack (MongoDB, 
 <hr>
 <br>
 <b>Core Features </b><br>
-✅ OTP-Based Transaction Verification
-Every payment is secured with email-based OTP verification, ensuring authorized and fraud-free transactions. <br>
-✅ Secure User Authentication
-Authentication implemented using JWT strategies, following production-level security practices. <br>
-✅ Real-Time Transaction Processing
-Payments are processed instantly with live transaction status and balance updates. <br>
+✅ OTP-Based Transaction Verification <br/>
+ ◌ Every payment is secured with email-based OTP verification, ensuring authorized and fraud-free transactions. <br>
+✅ Secure User Authentication <br>
+ ◌ Authentication implemented using JWT strategies, following production-level security practices. <br>
+✅ Real-Time Transaction Processing <br>
+ ◌ Payments are processed instantly with live transaction status and balance updates. <br>
 ✅ Fund Transfers & Payment Processing <br>
 ✅ AI-Powered Financial Insights (Future Scope) <br>
 ✅ Multi-Currency & Crypto Support (Upcoming) <br>
