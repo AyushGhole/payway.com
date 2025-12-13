@@ -35,7 +35,10 @@ Building PayWay.in follows a structured approach using the MERN stack (MongoDB, 
  ◌  Production-ready dashboard built with Tailwind CSS, optimized for usability across devices.<br><br>
 ✅ Scalable MERN Architecture <br>
  ◌  Built on MongoDB, Express.js, React, and Node.js, designed for scalability and maintainability. <br><br>
-
+✅ Backend API Validation & Error Handling
+ ◌  Robust server-side validation with proper error handling for secure financial operations.<br><br> 
+✅ Production-Like Payment Experience
+ ◌  Designed to closely simulate real banking & fintech workflows, including verification, transaction logs, and user feedback. <br><br>
 
 
 <hr>
