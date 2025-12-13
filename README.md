@@ -11,7 +11,7 @@ PayWay.in is a modern digital banking platform built with the MERN stack and MVC
 <hr>
 <br>
 <b>Building Of The Website : </b> <br>
-PayWay.in is built on the MERN stack with MVC architecture, using Node.js/Express for backend, MongoDB for data storage, and React with Bootstrap for a responsive frontend. It features secure JWT authentication, smooth API communication via Axios, and is deployed on MongoDB Atlas, Render, and Vercel for a scalable, production-ready banking experience. 🚀
+PayWay.in is built on the MERN stack with MVC architecture, using Node.js/Express for backend, MongoDB for data storage, and React with Tailwind CSS for a responsive frontend. It features secure JWT authentication, smooth API communication via Axios, and is deployed on MongoDB Atlas, Render, and Vercel for a scalable, production-ready banking experience. 🚀
 <hr>
 <br>
 <br>
