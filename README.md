@@ -3,22 +3,23 @@
 PayWay.in is a modern digital banking platform built with the MERN stack and MVC architecture, delivering secure, scalable, and user-friendly transactions. It supports real-time balance updates, secure authentication, and seamless fund transfers with an optimized, responsive UI. Deployed on Vercel (frontend), Render (backend), and MongoDB Atlas, PayWay is designed for high performance and scalability, with future plans including AI-driven insights, multi-currency support, enhanced security, and mobile app expansion.
 <br>
 <hr>
-<b>Front View : </b> 
+<b>Front View : </b> <br>
 <img src="frontend/user.png"  alt="mainImagez">
 <hr>
-<b>User DashBoard : </b>
+<b>User DashBoard : </b> <br>
 <img src="frontend/Screenshot%20(893).png" alt="userDasshboard">
 <hr>
 <br>
-<b>Building Of The Website : </b>
-Building PayWay.in follows a structured approach using the MERN stack (MongoDB, Express.js, React, Node.js) with the MVC (Model-View-Controller) architecture for efficient development. The backend (Node.js & Express.js) handles authentication, transactions, and user management, with MongoDB storing user and transaction data through Mongoose models. The controllers manage API requests, while routes handle client-server communication. The frontend (React.js with Bootstrap CDN) ensures a responsive UI with reusable components, styled using Bootstrap without local dependencies. Axios facilitates API calls, and CORS policies are configured for smooth frontend-backend interaction. JWT authentication & Bcrypt.js ensure secure login, while MongoDB Atlas, Render, and Vercel handle deployment for a scalable infrastructure. This approach ensures security, performance, and a seamless banking experience for users. 🚀
+<b>Building Of The Website : </b> <br>
+PayWay.in is built on the MERN stack with MVC architecture, using Node.js/Express for backend, MongoDB for data storage, and React with Bootstrap for a responsive frontend. It features secure JWT authentication, smooth API communication via Axios, and is deployed on MongoDB Atlas, Render, and Vercel for a scalable, production-ready banking experience. 🚀
 <hr>
 <br>
-<b>Product Page : </b>
+<br>
+<b>Product Page : </b><br>
 <img src="frontend/Screenshot%20(894).png" alt="ProductPage">
 <hr>
 <br>
-<b>Send Money Page : </b>
+<b>Send Money Page : </b> <br>
 <img src="frontend/Screenshot%20(895).png" alt="sendMoneyPage">
 <hr>
 <br>
