@@ -33,7 +33,11 @@ Building PayWay.in follows a structured approach using the MERN stack (MongoDB, 
  ◌  Supports UPI, phone number, and bank account transfers, similar to real-world payment platforms.<br>
 ✅ Responsive & User-Friendly Dashboard
  ◌  Production-ready dashboard built with Tailwind CSS, optimized for usability across devices.<br><br>
-✅ Multi-Currency & Crypto Support (Upcoming) <br><br>
+✅ Scalable MERN Architecture <br>
+ ◌  Built on MongoDB, Express.js, React, and Node.js, designed for scalability and maintainability. <br><br>
+
+
+
 <hr>
 <br>
 <b> What’s Next?</b> <br>
