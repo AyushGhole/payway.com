@@ -80,6 +80,6 @@ PayWay.in is built on the MERN stack with MVC architecture, using Node.js/Expres
    <br>
    <h4>Demo Link : </h4> 
    <br>
-    <a href="https://youtu.be/bnzIsao1vLw">
+    <a href="https://youtu.be/OcijcrrXJsU">
          <img src="https://img.shields.io/badge/-Demo_Link-blue?style=flat-square" height="30px" width="90px" >
    </a> 
